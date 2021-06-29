@@ -11,3 +11,13 @@
 
 # 2.http上传
 # 2.1 新建表, 表中包含字段(key,uid_enc,accession_number,upload_status,down_status,remote_file_name,down_file_name,localtion_code,backet_id,create_time,update_time)
+
+
+## create a new repository on the command line
+# echo "# FS" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/jianghuxiaoloulou/FS.git
+# git push -u origin main
